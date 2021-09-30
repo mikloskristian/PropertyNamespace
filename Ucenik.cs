@@ -2,8 +2,12 @@
 
 class Ucenik
 {
-    public Ucenik()
+
+    private string _name;
+
+    public Ucenik(string name)
     {
-        Console.WriteLine("Stvoren objekt");
+        this._name = name;
+        Console.WriteLine(_name);
     }
 }
