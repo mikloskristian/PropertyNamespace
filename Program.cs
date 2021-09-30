@@ -5,4 +5,3 @@
         Ucenik Kristian = new Ucenik("Kristian");
         }
     }
-   
